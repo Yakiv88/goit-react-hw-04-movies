@@ -1,0 +1,33 @@
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 26px;
+}
+
+.item {
+  font-size: 24px;
+}
+
+.activeLink {
+  composes: link;
+  /* color: #ad1b81; */
+  color: darkgreen;
+}
+
+.list {
+  display: flex;
+}
+
+.item:not(:last-child) {
+  margin-right: 30px;
+}
+
+.wrapper {
+  background-color: black;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 70px;
+}

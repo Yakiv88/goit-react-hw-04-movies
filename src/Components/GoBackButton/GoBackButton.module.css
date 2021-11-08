@@ -1,0 +1,16 @@
+.button53 {
+  box-sizing: border-box;
+  font-family: ui-sans-serif, system-ui, -apple-system, system-ui, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 1rem;
+  font-weight: 700;
+  width: 100%;
+  max-width: 70px;
+  display: block;
+  margin-left: 70px;
+  border: 0.5px solid green;
+  background-color: rgb(17, 197, 11);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+}

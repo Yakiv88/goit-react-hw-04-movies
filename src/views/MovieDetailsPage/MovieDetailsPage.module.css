@@ -1,0 +1,15 @@
+.header {
+  color: gray;
+  text-align: center;
+}
+
+.linkWrapper {
+  padding: 30px;
+}
+
+.link {
+  /* display: inline; */
+  color: yellow;
+  font-size: 18px;
+  padding-left: 10px;
+}
