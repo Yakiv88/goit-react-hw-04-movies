@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/views/NotFound/NotFound.module.css"],"names":[],"mappings":"AAAA,sBACE,UAAW,CACX,cAAe,CACf,iBAAkB,CAClB,eACF","file":"11.f94453a0.chunk.css","sourcesContent":[".text {\n  color: gray;\n  font-size: 28px;\n  text-align: center;\n  margin-top: 50px;\n}\n"]}
