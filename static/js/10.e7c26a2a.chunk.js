@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-04-movies"]=this["webpackJsonpgoit-react-hw-04-movies"]||[]).push([[10],{81:function(t,e,o){t.exports={text:"NotFound_text__3_FtM"}},87:function(t,e,o){"use strict";o.r(e);var s=o(81),n=o.n(s),c=o(1);e.default=function(){return Object(c.jsx)("p",{className:n.a.text,children:"\u041d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e, \u0432\u0435\u0440\u043d\u0438\u0442\u0435\u0441\u044c \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 Home"})}}}]);
+//# sourceMappingURL=10.e7c26a2a.chunk.js.map
